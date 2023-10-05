@@ -1,0 +1,6 @@
+ad:Orxan
+soyad:Ibrahimzadə
+yaş:19
+universitet:ADNSU
+
+
